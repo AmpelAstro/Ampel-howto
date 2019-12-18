@@ -1,4 +1,4 @@
-name: ampelfixdb
+name: ampelstatic
 channels:
   - ampelproject
   - conda-forge
@@ -17,6 +17,8 @@ dependencies:
   - iminuit==1.3.3
   - ipython==7.4.0
   - librdkafka==1.2.2
+  - jupyter
+  - matplotlib 
   - marshaltools==0.0.10
   - numpy==1.16.2
   - palpy==1.8.1
