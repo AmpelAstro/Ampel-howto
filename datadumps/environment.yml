@@ -1,4 +1,4 @@
-name: ampelstatic
+name: ampelexports
 channels:
   - ampelproject
   - conda-forge

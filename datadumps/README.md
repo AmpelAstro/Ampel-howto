@@ -12,9 +12,9 @@ These instructions assume that a dedicated conda environment can be created. Thi
 
 conda env create -f environment.yml
 
-This will create a conda environment called ampelstatic, which can be activated through
+This will create a conda environment called ampelexports, which can be activated through
 
-conda activate ampelstatic
+conda activate ampelexports
 
 
 Step 2: Ampel repositires
